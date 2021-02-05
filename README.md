@@ -1,7 +1,7 @@
 # tech-blog
 
 ## Deescription
-A tech blog where you can post or look at post
+A tech blog where you can post or look at posts
 
 ## Installation
 npm i
